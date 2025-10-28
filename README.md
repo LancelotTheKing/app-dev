@@ -1,7 +1,7 @@
 # app-dev
  My first repository
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Lancelot",
+  "lastName": "Ramirez",
+  "age": 21
 }
